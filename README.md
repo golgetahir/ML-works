@@ -1,2 +1,2 @@
 # ML-works
-Machine learning tasks that i made.
+Machine learning tasks done by me
